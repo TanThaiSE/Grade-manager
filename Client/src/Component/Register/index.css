@@ -1,0 +1,10 @@
+.cardRegister{
+    width: 57rem;
+}
+.sizeInputRegister{
+    width: 88%;
+    border:none;
+}
+.sizeformGroupRegister{
+    border-bottom: 1px #c8b5b5 solid;
+}

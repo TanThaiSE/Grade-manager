@@ -1,0 +1,10 @@
+.cardProfile{
+    width: 57rem;
+}
+.sizeInputProfile{
+    width: 88%;
+    border:none;
+}
+.sizeformGroupProfile{
+    border-bottom: 1px #c8b5b5 solid;
+}

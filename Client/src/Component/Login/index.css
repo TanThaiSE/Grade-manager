@@ -1,0 +1,19 @@
+.cardLogin{
+    width: 24rem;
+}
+.sizeInput{
+    width: 88%;
+    border:none;
+}
+.sizeformGroup{
+    border-bottom: 1px #c8b5b5 solid;
+}
+.iconsocial{
+    border: 1px #3f51b5 solid;
+    border-radius: 51%;
+}
+.iconsocial:hover{
+    color: white;
+    background-color: #3f51b5;
+    cursor: pointer;
+}

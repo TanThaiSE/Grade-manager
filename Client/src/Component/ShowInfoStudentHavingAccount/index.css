@@ -1,0 +1,6 @@
+.InfoStudentHavingAccount{
+    cursor: pointer;
+}
+.InfoStudentHavingAccount:hover{
+    color:red;
+}
